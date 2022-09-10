@@ -1,0 +1,6 @@
+
+imie = "Mateusz"
+wiek = input("Powiedz ile masz lat: ")
+#To jest komentarz
+rok = 2022 - int(wiek)
+print(f"Cześć {imie}. Jak się masz? Masz {wiek} czyli urodziłeś się w {rok}!")
