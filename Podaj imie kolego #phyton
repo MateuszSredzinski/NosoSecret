@@ -1,0 +1,7 @@
+print("Podaj swoje imie kolego")
+imie = input()
+
+if imie == "Mateusz":
+    print(" I bardzo dobrze")
+else:
+    print("No trudno")
